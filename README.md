@@ -20,6 +20,7 @@
   </a>
 </div>
 
+![snake gif](https://github.com/GabriellFerrari/GabriellFerrari/blob/output/github-contribution-grid-snake.gif)
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
 <div align="center">
@@ -32,6 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" height="40"/>
 </div>
-![snake gif](https://github.com/GabriellFerrari/GabriellFerrari/blob/output/github-contribution-grid-snake.gif)
 
 
