@@ -30,14 +30,15 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
     
-      - name: Generate the snake files in './dist/'
+        - nome : Gerar os arquivos snake em './dist/'
         uses: Platane/snk@v3
-        id: snake-gif
+        id: cobra-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
+          theme: dark
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
